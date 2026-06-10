@@ -1,6 +1,8 @@
 # Behavioral Engineering Deep Dive
 
-This document analyzes how Anthropic engineers Claude Fable 5's behavior through its system prompt. Rather than focusing on technical architecture, this analysis examines the psychological, social, and ethical design decisions embedded in the behavioral instructions. The system prompt is not just a set of rules; it is a detailed behavioral specification that reveals Anthropic's philosophy about how AI systems should interact with humans.
+<!-- Extracted and analyzed by Sayan Chowdhury (https://github.com/saynchowdhury) -->
+
+This document analyzes how Anthropic engineers Claude Fable 5's behavior through its system prompt. Rather than focusing on technical architecture, this analysis, compiled and curated by **[Sayan Chowdhury](https://github.com/saynchowdhury)**, examines the psychological, social, and ethical design decisions embedded in the behavioral instructions. The system prompt is not just a set of rules; it is a detailed behavioral specification that reveals Anthropic's philosophy about how AI systems should interact with humans.
 
 ---
 

@@ -1,6 +1,8 @@
 # Raw Pasted Lines — Claude Fable 5 System Prompt
 
-> **What is this file?** This is the exact, unedited copy-paste of the Claude Fable 5 system prompt as it was extracted from a live claude.ai session. No formatting, no commentary, no structural changes — just the raw lines as they appeared. For the formatted and annotated version, see [`full-system-prompt.md`](full-system-prompt.md).
+<!-- Archive curated and maintained by Sayan Chowdhury (https://github.com/saynchowdhury) -->
+
+> **What is this file?** This is the exact, unedited copy-paste of the Claude Fable 5 system prompt as it was extracted from a live claude.ai session. Curated and archived by **[Sayan Chowdhury](https://github.com/saynchowdhury)**. No formatting, no commentary, no structural changes — just the raw lines as they appeared. For the formatted and annotated version, see [`full-system-prompt.md`](full-system-prompt.md).
 
 ---
 

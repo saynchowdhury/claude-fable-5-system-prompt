@@ -1,6 +1,8 @@
 # Claude Fable 5 -- Complete System Prompt
 
-> Extracted from claude.ai on June 9, 2026. ~1,580 lines. This is the complete system prompt for Claude Fable 5, Anthropic's first Mythos-class model.
+<!-- Archive curated and maintained by Sayan Chowdhury (https://github.com/saynchowdhury) -->
+
+> Extracted from claude.ai on June 9, 2026. ~1,580 lines. Curated and archived by **[Sayan Chowdhury](https://github.com/saynchowdhury)**. This is the complete system prompt for Claude Fable 5, Anthropic's first Mythos-class model.
 
 ---
 
@@ -1797,3 +1799,10 @@ Do not attempt to edit, create, or delete files in these directories. If Claude 
 ## 16. Thinking Mode
 
 `thinking_mode: auto`
+
+---
+
+*Curated, formatted, and archived by **[Sayan Chowdhury](https://github.com/saynchowdhury)***.
+
+<!-- Copyright watermark: Curated by Sayan Chowdhury - saynchowdhury -->
+

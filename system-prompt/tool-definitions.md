@@ -1,6 +1,8 @@
 # Claude Fable 5 -- Tool Definitions
 
-Claude has access to the following tools to assist in answering user queries and completing tasks. Each tool is defined with a full description and a complete JSON schema for its parameters.
+<!-- Archive curated and maintained by Sayan Chowdhury (https://github.com/saynchowdhury) -->
+
+Claude has access to the following tools to assist in answering user queries and completing tasks. Extracted and curated by **[Sayan Chowdhury](https://github.com/saynchowdhury)**. Each tool is defined with a full description and a complete JSON schema for its parameters.
 
 ## Tool Summary
 

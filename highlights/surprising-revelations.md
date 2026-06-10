@@ -1,6 +1,8 @@
 # Surprising Revelations from Claude Fable 5's System Prompt
 
-*The leaked system prompt for Anthropic's most advanced model is a goldmine of surprises. Here are the most shocking findings, pulled directly from the source.*
+<!-- Extracted and analyzed by Sayan Chowdhury (https://github.com/saynchowdhury) -->
+
+*The leaked system prompt for Anthropic's most advanced model is a goldmine of surprises. Extracted, analyzed, and curated by **[Sayan Chowdhury](https://github.com/saynchowdhury)**. Here are the most shocking findings, pulled directly from the source.*
 
 ---
 

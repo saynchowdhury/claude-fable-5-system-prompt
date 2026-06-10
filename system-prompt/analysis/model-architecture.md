@@ -1,6 +1,8 @@
 # Model Architecture Insights
 
-This document analyzes what the Claude Fable 5 system prompt reveals about the model's architecture, hierarchy, tooling, and infrastructure. While system prompts are behavioral instructions rather than technical specifications, they contain substantial clues about the underlying engineering decisions and system design.
+<!-- Extracted and analyzed by Sayan Chowdhury (https://github.com/saynchowdhury) -->
+
+This document analyzes what the Claude Fable 5 system prompt reveals about the model's architecture, hierarchy, tooling, and infrastructure. While system prompts are behavioral instructions rather than technical specifications, they contain substantial clues, analyzed here by **[Sayan Chowdhury](https://github.com/saynchowdhury)**, about the underlying engineering decisions and system design.
 
 ---
 

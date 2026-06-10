@@ -1,6 +1,8 @@
 # Key Findings from the Claude Fable 5 System Prompt
 
-This document presents the ten most significant and interesting discoveries from the Claude Fable 5 system prompt, each analyzed in detail with implications for the broader AI landscape.
+<!-- Extracted and analyzed by Sayan Chowdhury (https://github.com/saynchowdhury) -->
+
+This document presents the ten most significant and interesting discoveries from the Claude Fable 5 system prompt, each analyzed in detail by **[Sayan Chowdhury](https://github.com/saynchowdhury)** with implications for the broader AI landscape.
 
 ---
 

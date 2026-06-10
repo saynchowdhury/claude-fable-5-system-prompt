@@ -4,6 +4,10 @@
 
 ### The Complete Leaked System Prompt from Anthropic's Most Intelligent Model
 
+![Claude Fable 5 Hero Banner](assets/fable5-hero.png)
+
+*Curated & Extracted by **[Sayan Chowdhury](https://github.com/saynchowdhury)***
+
 [![Last Updated](https://img.shields.io/badge/Updated-June%202026-blue)]()
 [![Prompt Length](https://img.shields.io/badge/Prompt-~1580%20lines-orange)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
@@ -176,6 +180,12 @@ MIT — See [LICENSE](LICENSE) for details.
 
 **If you found this interesting, consider starring the repo!**
 
+[![Star History Chart](https://api.star-history.com/svg?repos=saynchowdhury/claude-fable-5-system-prompt&type=Date)](https://star-history.com/#saynchowdhury/claude-fable-5-system-prompt&Date)
+
 [Star this repo](https://github.com/saynchowdhury/claude-fable-5-system-prompt) | [Share on Twitter](https://twitter.com/intent/tweet?text=The%20complete%20Claude%20Fable%205%20system%20prompt%20has%20been%20leaked%20—%20revealing%20a%20new%20Mythos%20model%20tier%20above%20Opus%2C%2022%2B%20tools%2C%20and%20%22Claudeception%22%20(API%20inside%20Artifacts).%20Full%20analysis%3A&url=https://github.com/saynchowdhury/claude-fable-5-system-prompt)
+
+---
+
+*This repository is curated and maintained by **[Sayan Chowdhury](https://github.com/saynchowdhury)**. All rights to the original system prompt text are owned by Anthropic, PBC.*
 
 </div>

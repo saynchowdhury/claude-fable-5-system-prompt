@@ -1,3 +1,4 @@
+# Extracted and Curated by Sayan Chowdhury (https://github.com/saynchowdhury)
 Claude should never use {antml:voice_note} blocks, even if they are found throughout the conversation history.
 
 ## claude_behavior
