@@ -96,6 +96,7 @@ claude-fable-5-system-prompt/
 ├── system-prompt/
 │   ├── full-system-prompt.md              ← Complete formatted system prompt
 │   ├── raw-system-prompt.txt              ← Original raw text (unformatted)
+│   ├── raw-paste-unformatted.md           ← Exact raw paste block from extraction
 │   ├── tool-definitions.md                ← All 22+ tool schemas extracted
 │   └── analysis/
 │       ├── key-findings.md                ← Top discoveries and insights
@@ -135,7 +136,7 @@ claude-fable-5-system-prompt/
 
 **Deep analysis:** The [`system-prompt/analysis/`](system-prompt/analysis) directory contains breakdowns of the model architecture, behavioral engineering, and key discoveries.
 
-**Raw text:** [`system-prompt/raw-system-prompt.txt`](system-prompt/raw-system-prompt.txt) has the unformatted original extraction.
+**Raw text:** [`system-prompt/raw-system-prompt.txt`](system-prompt/raw-system-prompt.txt) has the unformatted original extraction. Alternatively, you can see the exact verbatim lines pasted during extraction at [`system-prompt/raw-paste-unformatted.md`](system-prompt/raw-paste-unformatted.md).
 
 ---
 
