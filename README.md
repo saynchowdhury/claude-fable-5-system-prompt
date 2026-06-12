@@ -12,7 +12,7 @@
 [![Prompt Length](https://img.shields.io/badge/Prompt-~1580%20lines-orange)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Stars](https://img.shields.io/github/stars/saynchowdhury/claude-fable-5-system-prompt?style=social)]()
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt&count_bg=%23222222&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)]()
+[![Views](https://api.visitorbadge.io/api/VisitorHit?user=saynchowdhury&repo=claude-fable-5-system-prompt&label=views&countColor=%23222222&labelColor=%23555555)]()
 [![Live Views](https://visitor-badge.laobi.icu/badge?page_id=saynchowdhury.claude-fable-5-system-prompt&left_text=live%20views)](https://github.com/saynchowdhury/claude-fable-5-system-prompt)
 
 *A comprehensive archive and analysis of the system prompt powering Claude Fable 5 — Anthropic's first Mythos-class model.*
