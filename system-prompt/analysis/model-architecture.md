@@ -235,3 +235,14 @@ The system also supports dynamic skill availability: "user-provided skills since
 The Claude Fable 5 system reveals a sophisticated, multi-layered architecture that goes far beyond a simple chat interface. The model hierarchy spans four capability tiers plus a new Mythos-class designation. The same base model can be deployed with different safety profiles for different audiences. The tool ecosystem includes over 22 tools spanning code execution, information retrieval, location services, and third-party integrations via MCP. The filesystem uses strict access controls with read-only mounts, ephemeral working directories, and a controlled output pipeline. The network layer uses an egress proxy with domain allowlisting. And the skills system provides an extensible abstraction layer for specialized tasks.
 
 Together, these architectural elements paint a picture of a platform that has been designed for production-grade deployment with careful attention to security, safety, extensibility, and user experience.
+
+---
+
+<div align="center">
+
+[← Back to README](../../README.md) | [↑ Scroll to Top](#)
+
+*Archived and maintained by **[Sayan Chowdhury](https://github.com/saynchowdhury)***
+
+</div>
+

@@ -895,3 +895,14 @@ Note: Files with non-UTF-8 encoding will display hex escapes (e.g. \x84) for inv
   "type": "object"
 }
 ```
+
+---
+
+<div align="center">
+
+[← Back to README](../README.md) | [↑ Scroll to Top](#)
+
+*Archived and maintained by **[Sayan Chowdhury](https://github.com/saynchowdhury)***
+
+</div>
+

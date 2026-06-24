@@ -236,3 +236,14 @@ This is a direct defense against a known attack vector: users forging system-lev
 ---
 
 *The full system prompt reveals an AI system that is far more complex, far more carefully engineered, and far more commercially ambitious than Anthropic's public messaging has suggested. Every one of these revelations represents a deliberate design choice, and taken together, they paint a picture of an organization that is simultaneously pushing the boundaries of AI capability while wrestling seriously -- if imperfectly -- with the consequences of doing so.*
+
+---
+
+<div align="center">
+
+[← Back to README](../README.md) | [↑ Scroll to Top](#)
+
+*Archived and maintained by **[Sayan Chowdhury](https://github.com/saynchowdhury)***
+
+</div>
+

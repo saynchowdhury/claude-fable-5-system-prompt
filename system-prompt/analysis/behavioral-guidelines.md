@@ -193,3 +193,14 @@ What makes these guidelines most interesting is not any individual rule but the 
 The prompt also reveals the limits of behavioral engineering. No matter how detailed the instructions, they are interpreted by a neural network that may not always follow them perfectly. The repetition of key rules (copyright appears three times, the anti-bullet-point philosophy appears in multiple sections) suggests that Anthropic has found that certain behaviors require reinforcement through redundancy. The runtime reminder system acknowledges that even a comprehensive system prompt may not be sufficient and supplements it with dynamic, context-aware reinforcement.
 
 The result is a behavioral specification that is simultaneously a technical document, a psychological profile, an ethical framework, and a product design philosophy. It is arguably the most detailed public specification of how a frontier AI system is designed to behave, and it offers a window into the enormous effort that goes into making AI systems that are not just capable but genuinely safe and beneficial.
+
+---
+
+<div align="center">
+
+[← Back to README](../../README.md) | [↑ Scroll to Top](#)
+
+*Archived and maintained by **[Sayan Chowdhury](https://github.com/saynchowdhury)***
+
+</div>
+
