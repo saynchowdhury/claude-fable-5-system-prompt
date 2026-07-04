@@ -12,8 +12,7 @@
 [![Prompt Length](https://img.shields.io/badge/Prompt-~1580%20lines-orange)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Stars](https://img.shields.io/github/stars/saynchowdhury/claude-fable-5-system-prompt?style=social)]()
-[![Views](https://api.visitorbadge.io/api/VisitorHit?user=saynchowdhury&repo=claude-fable-5-system-prompt&label=views&countColor=%23222222&labelColor=%23555555)]()
-[![Live Views](https://visitor-badge.laobi.icu/badge?page_id=saynchowdhury.claude-fable-5-system-prompt&left_text=live%20views)](https://github.com/saynchowdhury/claude-fable-5-system-prompt)
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaynchowdhury%2Fclaude-fable-5-system-prompt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 *The complete Claude Fable 5 (Mythos-class) system prompt archive. Discover Anthropic's agentic AI rules, tools, and secrets.*
 
@@ -171,6 +170,9 @@ Found a novel jailbreak, a behavioral quirk, or want to add an interactive tool?
 
 Please check our [Contributing Guidelines](CONTRIBUTING.md) and open an Issue using our templates, or submit a PR with your analysis. We actively welcome community discussions!
 
+### Contributors
+[![Contributors](https://contrib.rocks/image?repo=saynchowdhury/claude-fable-5-system-prompt)](https://github.com/saynchowdhury/claude-fable-5-system-prompt/graphs/contributors)
+
 ---
 
 ## Disclaimer
@@ -200,9 +202,10 @@ Unlike static text files, this repository is **living documentation**. By starri
 
 **If you found this interesting, consider starring the repo!**
 
-[![Star History Chart](https://starchart.cc/saynchowdhury/claude-fable-5-system-prompt.svg?theme=dark)](https://starchart.cc/saynchowdhury/claude-fable-5-system-prompt)
+[![Star History Chart](https://api.star-history.com/svg?repos=saynchowdhury/claude-fable-5-system-prompt&type=Date)](https://star-history.com/#saynchowdhury/claude-fable-5-system-prompt&Date)
 
-[Star this repo](https://github.com/saynchowdhury/claude-fable-5-system-prompt) | [Share on Twitter](https://twitter.com/intent/tweet?text=The%20complete%20Claude%20Fable%205%20system%20prompt%20has%20been%20leaked%20—%20revealing%20a%20new%20Mythos%20model%20tier%20above%20Opus%2C%2022%2B%20tools%2C%20and%20%22Claudeception%22%20(API%20inside%20Artifacts).%20Full%20analysis%3A&url=https://github.com/saynchowdhury/claude-fable-5-system-prompt)
+### Help Spread the Word
+[Share on X / Twitter](https://twitter.com/intent/tweet?text=The%20complete%20Claude%20Fable%205%20system%20prompt%20has%20been%20leaked%20—%20revealing%20a%20new%20Mythos%20model%20tier%20above%20Opus%2C%2022%2B%20tools%2C%20and%20%22Claudeception%22%20(API%20inside%20Artifacts).%20Full%20analysis%3A&url=https://github.com/saynchowdhury/claude-fable-5-system-prompt) | [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt) | [Share on Reddit](https://reddit.com/submit?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt&title=The%20complete%20Claude%20Fable%205%20system%20prompt)
 
 ---
 
