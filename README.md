@@ -14,6 +14,14 @@
 [![Stars](https://img.shields.io/github/stars/saynchowdhury/claude-fable-5-system-prompt?style=social)]()
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaynchowdhury%2Fclaude-fable-5-system-prompt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br/>
+
+[![Share on X](https://img.shields.io/badge/Share-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=The%20complete%20Claude%20Fable%205%20system%20prompt%20has%20been%20leaked%20—%20revealing%20a%20new%20Mythos%20model%20tier%20above%20Opus%2C%2022%2B%20tools%2C%20and%20%22Claudeception%22%20(API%20inside%20Artifacts).%20Full%20analysis%3A&url=https://github.com/saynchowdhury/claude-fable-5-system-prompt)
+[![Share on LinkedIn](https://img.shields.io/badge/Share-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt)
+[![Share on Reddit](https://img.shields.io/badge/Share-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt&title=The%20complete%20Claude%20Fable%205%20system%20prompt)
+[![Share on Hacker News](https://img.shields.io/badge/Share-FF6600?style=flat&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/submitlink?u=https://github.com/saynchowdhury/claude-fable-5-system-prompt&t=The%20complete%20Claude%20Fable%205%20system%20prompt)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_with_Author-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayanchowdhuryai/)
+
 *The complete Claude Fable 5 (Mythos-class) system prompt archive. Discover Anthropic's agentic AI rules, tools, and secrets.*
 
 [Key Revelations](#key-revelations) | [Full Prompt](system-prompt/full-system-prompt.md) | [Analysis](system-prompt/analysis/key-findings.md) | [Fable 5 vs Opus 4.8](system-prompt/analysis/fable5-vs-opus-comparison.md) | [Highlights](highlights/surprising-revelations.md)
@@ -216,13 +224,7 @@ Unlike static text files, this repository is **living documentation**. By starri
 
 [![Star History Chart](https://api.star-history.com/svg?repos=saynchowdhury/claude-fable-5-system-prompt&type=Date)](https://star-history.com/#saynchowdhury/claude-fable-5-system-prompt&Date)
 
-### Help Spread the Word
-[![Share on X](https://img.shields.io/badge/Share_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=The%20complete%20Claude%20Fable%205%20system%20prompt%20has%20been%20leaked%20—%20revealing%20a%20new%20Mythos%20model%20tier%20above%20Opus%2C%2022%2B%20tools%2C%20and%20%22Claudeception%22%20(API%20inside%20Artifacts).%20Full%20analysis%3A&url=https://github.com/saynchowdhury/claude-fable-5-system-prompt) 
-[![Share on LinkedIn](https://img.shields.io/badge/Share_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt) 
-[![Share on Reddit](https://img.shields.io/badge/Share_on_Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt&title=The%20complete%20Claude%20Fable%205%20system%20prompt)
-[![Share on Hacker News](https://img.shields.io/badge/Share_on_Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/submitlink?u=https://github.com/saynchowdhury/claude-fable-5-system-prompt&t=The%20complete%20Claude%20Fable%205%20system%20prompt)
 
----
 
 *This repository is curated and maintained by **[Sayan Chowdhury](https://github.com/saynchowdhury)**. All rights to the original system prompt text are owned by Anthropic, PBC.*
 
