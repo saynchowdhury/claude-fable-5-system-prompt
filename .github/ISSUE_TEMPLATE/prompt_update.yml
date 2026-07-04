@@ -1,0 +1,32 @@
+name: Prompt Update
+description: Report a suspected update or stealth change to the Claude Fable 5 system prompt.
+title: "[UPDATE]: "
+labels: ["prompt-update"]
+assignees: ["saynchowdhury"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Did Anthropic update the prompt? Let us know so we can keep the archive current.
+  - type: input
+    id: date_observed
+    attributes:
+      label: Date Observed
+      description: When did you notice the change?
+      placeholder: "e.g., July 15, 2026"
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: What changed?
+      description: Describe what sections were added, removed, or modified.
+    validations:
+      required: true
+  - type: textarea
+    id: extraction_method
+    attributes:
+      label: Extraction Method
+      description: How did you verify this change? (e.g., specific jailbreak prompt, Artifacts API leak)
+    validations:
+      required: true

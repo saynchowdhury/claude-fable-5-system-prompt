@@ -15,9 +15,9 @@
 [![Views](https://api.visitorbadge.io/api/VisitorHit?user=saynchowdhury&repo=claude-fable-5-system-prompt&label=views&countColor=%23222222&labelColor=%23555555)]()
 [![Live Views](https://visitor-badge.laobi.icu/badge?page_id=saynchowdhury.claude-fable-5-system-prompt&left_text=live%20views)](https://github.com/saynchowdhury/claude-fable-5-system-prompt)
 
-*A comprehensive archive and analysis of the system prompt powering Claude Fable 5 — Anthropic's first Mythos-class model.*
+*The complete Claude Fable 5 (Mythos-class) system prompt archive. Discover Anthropic's agentic AI rules, tools, and secrets.*
 
-[Key Revelations](#key-revelations) | [Full Prompt](system-prompt/full-system-prompt.md) | [Analysis](system-prompt/analysis/key-findings.md) | [Highlights](highlights/surprising-revelations.md)
+[Key Revelations](#key-revelations) | [Full Prompt](system-prompt/full-system-prompt.md) | [Analysis](system-prompt/analysis/key-findings.md) | [Fable 5 vs Opus 4.8](system-prompt/analysis/fable5-vs-opus-comparison.md) | [Highlights](highlights/surprising-revelations.md)
 
 </div>
 
@@ -105,7 +105,8 @@ claude-fable-5-system-prompt/
 │   └── analysis/
 │       ├── key-findings.md                ← Top discoveries and insights
 │       ├── model-architecture.md          ← What we learn about the model stack
-│       └── behavioral-guidelines.md       ← Deep dive into behavior engineering
+│       ├── behavioral-guidelines.md       ← Deep dive into behavior engineering
+│       └── fable5-vs-opus-comparison.md   ← Mythos-class vs Opus-class comparison
 ├── highlights/
 │   └── surprising-revelations.md          ← Most shocking/viral findings
 ├── scripts/
@@ -140,7 +141,7 @@ claude-fable-5-system-prompt/
 
 **Quick highlights:** Jump to [`highlights/surprising-revelations.md`](highlights/surprising-revelations.md) for the most interesting findings.
 
-**Deep analysis:** The [`system-prompt/analysis/`](system-prompt/analysis) directory contains breakdowns of the model architecture, behavioral engineering, and key discoveries.
+**Deep analysis:** The [`system-prompt/analysis/`](system-prompt/analysis) directory contains breakdowns of the model architecture, behavioral engineering, and a detailed [Fable 5 vs Opus 4.8 Comparison](system-prompt/analysis/fable5-vs-opus-comparison.md).
 
 **Verify Integrity:** Run the signature checker script to verify that your clone's content and curation attributions are original:
 ```bash
@@ -163,9 +164,12 @@ This is a primary source document for understanding how frontier AI models are s
 
 ---
 
-## Contributing
+## Community & Contributing
 
-Found something interesting in the prompt? Open an issue or PR with your analysis.
+We want to make this repository the premier research hub for Anthropic's Mythos-class models.
+Found a novel jailbreak, a behavioral quirk, or want to add an interactive tool? 
+
+Please check our [Contributing Guidelines](CONTRIBUTING.md) and open an Issue using our templates, or submit a PR with your analysis. We actively welcome community discussions!
 
 ---
 
@@ -178,6 +182,17 @@ This repository is for **educational and research purposes**. The system prompt 
 ## License
 
 MIT — See [LICENSE](LICENSE) for details.
+
+---
+
+<div align="center">
+
+## Why Star This Repo? ⭐
+
+Unlike static text files, this repository is **living documentation**. By starring it, you get:
+- Real-time updates when Anthropic pushes changes to the Mythos system prompts.
+- Community-driven analysis and insights into frontier AI behavior.
+- JSON schemas and tool structures you can reverse-engineer for your own AI agents.
 
 ---
 

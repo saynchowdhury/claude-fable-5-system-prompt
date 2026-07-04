@@ -1,0 +1,32 @@
+name: Analysis Submission
+description: Submit new insights, findings, or behavioral quirks discovered in the Fable 5 prompt.
+title: "[ANALYSIS]: "
+labels: ["enhancement", "research"]
+assignees: ["saynchowdhury"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the research! Please detail your findings below.
+  - type: textarea
+    id: finding
+    attributes:
+      label: What did you find?
+      description: Describe your discovery in the system prompt or the model's behavior.
+      placeholder: "I noticed that the web_search tool has a specific constraint regarding..."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / Line Numbers
+      description: Where in the full-system-prompt.md is this located? (Provide line numbers if possible)
+    validations:
+      required: false
+  - type: textarea
+    id: implication
+    attributes:
+      label: Why is this significant?
+      description: How does this impact developers or our understanding of the Mythos-class architecture?
+    validations:
+      required: true
