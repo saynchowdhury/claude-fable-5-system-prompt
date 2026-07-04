@@ -161,6 +161,18 @@ System prompts are the invisible architecture behind AI behavior. This prompt re
 
 This is a primary source document for understanding how frontier AI models are shaped.
 
+## Fun Quirks & Valuable Learnings
+
+Beyond the architecture, the prompt reveals some hilarious and fascinating rules that govern Claude's personality:
+
+- **"Claudeception"**: Fable 5 is explicitly allowed to use the Anthropic API (via Sonnet 4) *from within* the interactive artifacts it generates.
+- **The Anti-Bullet-Point Crusade**: The prompt aggressively bans Claude from using bullet points or bold text in standard prose, noting it wants to avoid looking like stereotypical "AI slop." It even notes: *"Claude never uses bullet points when declining a task; the additional care helps soften the blow."*
+- **No Sycophantic Gratitude**: Claude is explicitly told to *never* thank the user just for reaching out, and to never beg the user to keep talking.
+- **Military-Grade Copyright**: More than 15 words quoted from a single source is defined as a "SEVERE VIOLATION". The prompt includes a 5-step checklist Claude must run before quoting text.
+- **Clinical Nuance**: It forbids suggesting "rubber bands or ice cubes" as self-harm substitutes, noting (like a graduate psychology textbook) that sensory substitutions reinforce neural pathways rather than breaking them.
+
+For the full list of deep dives, see [`highlights/surprising-revelations.md`](highlights/surprising-revelations.md).
+
 ---
 
 ## Community & Contributing
@@ -205,7 +217,10 @@ Unlike static text files, this repository is **living documentation**. By starri
 [![Star History Chart](https://api.star-history.com/svg?repos=saynchowdhury/claude-fable-5-system-prompt&type=Date)](https://star-history.com/#saynchowdhury/claude-fable-5-system-prompt&Date)
 
 ### Help Spread the Word
-[Share on X / Twitter](https://twitter.com/intent/tweet?text=The%20complete%20Claude%20Fable%205%20system%20prompt%20has%20been%20leaked%20—%20revealing%20a%20new%20Mythos%20model%20tier%20above%20Opus%2C%2022%2B%20tools%2C%20and%20%22Claudeception%22%20(API%20inside%20Artifacts).%20Full%20analysis%3A&url=https://github.com/saynchowdhury/claude-fable-5-system-prompt) | [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt) | [Share on Reddit](https://reddit.com/submit?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt&title=The%20complete%20Claude%20Fable%205%20system%20prompt)
+[![Share on X](https://img.shields.io/badge/Share_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=The%20complete%20Claude%20Fable%205%20system%20prompt%20has%20been%20leaked%20—%20revealing%20a%20new%20Mythos%20model%20tier%20above%20Opus%2C%2022%2B%20tools%2C%20and%20%22Claudeception%22%20(API%20inside%20Artifacts).%20Full%20analysis%3A&url=https://github.com/saynchowdhury/claude-fable-5-system-prompt) 
+[![Share on LinkedIn](https://img.shields.io/badge/Share_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt) 
+[![Share on Reddit](https://img.shields.io/badge/Share_on_Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/saynchowdhury/claude-fable-5-system-prompt&title=The%20complete%20Claude%20Fable%205%20system%20prompt)
+[![Share on Hacker News](https://img.shields.io/badge/Share_on_Hacker_News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/submitlink?u=https://github.com/saynchowdhury/claude-fable-5-system-prompt&t=The%20complete%20Claude%20Fable%205%20system%20prompt)
 
 ---
 
