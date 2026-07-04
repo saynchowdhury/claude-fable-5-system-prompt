@@ -12,7 +12,8 @@
 [![Prompt Length](https://img.shields.io/badge/Prompt-~1580%20lines-orange)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Stars](https://img.shields.io/github/stars/saynchowdhury/claude-fable-5-system-prompt?style=social)]()
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaynchowdhury%2Fclaude-fable-5-system-prompt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Views](https://api.visitorbadge.io/api/VisitorHit?user=saynchowdhury&repo=claude-fable-5-system-prompt&label=views&countColor=%23222222&labelColor=%23555555)]()
+[![Live Views](https://visitor-badge.laobi.icu/badge?page_id=saynchowdhury.claude-fable-5-system-prompt&left_text=live%20views)](https://github.com/saynchowdhury/claude-fable-5-system-prompt)
 
 <br/>
 
